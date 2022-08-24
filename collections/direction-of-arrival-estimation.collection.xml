@@ -1,59 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Lindsay Langford">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11470</md:content-id>
-  <md:title>Direction of Arrival Estimation</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>70d80e36-1efb-465f-ab51-922ce43f1db4</md:uuid>
-<md:slug>direction-of-arrival-estimation</md:slug>
-</metadata>
-
+    <md:content-id>col11470</md:content-id>
+    <md:title>Direction of Arrival Estimation</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>70d80e36-1efb-465f-ab51-922ce43f1db4</md:uuid>
+    <md:slug>direction-of-arrival-estimation</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m45409"/>
-        
-      
-    
-    
-      <col:module document="m45411"/>
-        
-      
-    
-    
-      <col:module document="m45410"/>
-        
-      
-    
-    
-      <col:module document="m45413"/>
-        
-      
-    
-    
-      <col:module document="m45412"/>
-        
-      
-    
-    
-      <col:module document="m45414"/>
-        
-      
-    
-    
-      <col:module document="m45415"/>
-        
-      
-    
+    <col:module document="m45409"/>
+    <col:module document="m45411"/>
+    <col:module document="m45410"/>
+    <col:module document="m45413"/>
+    <col:module document="m45412"/>
+    <col:module document="m45414"/>
+    <col:module document="m45415"/>
   </col:content>
 </col:collection>
